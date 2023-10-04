@@ -183,8 +183,9 @@ export class ProfileService {
   ]
   about2 = `Software Developer with 2.5+ years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
-  Expertise in Angular 2+ & Above, Javascript, Java, SpringBoot and UI with Responsive Designs .
-  Have good understanding of Python, MYSQL, CI/CD, Maven and other technologies required for robust web development`
+  Expertise in Angular 8+ & Above, Javascript, Java, SpringBoot, UI with Responsive Designs and Event driven frameworks. .
+  Have good understanding of Python, MYSQL, CI/CD, Maven and other technologies required for robust web development.
+  Successful track record in building scalable and distributed solutions`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://drive.google.com/file/d/1V0ybzqW33xyQiviJ09YxVt1OK7kWKYWo/view?usp=drivesdk"
@@ -192,33 +193,57 @@ export class ProfileService {
   skillsData: any = [
     {
       'id': '1',
-      'skill': 'ANGULAR 2+',
-      'progress': '85%'
+      'skill': 'ANGULAR 11+',
+      'progress': '95%'
     },
     {
       'id': '2',
-      'skill': 'NODE JS',
-      'progress': '80%'
+      'skill': 'Spring Boot',
+      'progress': '90%'
     },
     {
       'id': '3',
-      'skill': 'JAVASCRIPT JQUERY',
+      'skill': 'Java Script',
       'progress': '80%'
     },
     {
       'id': '4',
-      'skill': 'SQL , MYSQL,MONOGO, FIREBASE',
-      'progress': '75%'
+      'skill': 'Type Script',
+      'progress': '80%'
     },
     {
       'id': '5',
-      'skill': 'REACT JS',
+      'skill': 'SQL, Maria DB',
       'progress': '75%'
     },
     {
       'id': '6',
-      'skill': 'PYTHON,JAVA',
+      'skill': 'PYTHON',
       'progress': '70%'
+    }
+    ,
+    {
+      'id': '7',
+      'skill': 'Git/ GitHub',
+      'progress': '90%'
+    }
+    ,
+    {
+      'id': '8',
+      'skill': 'REST Apis',
+      'progress': '90%'
+    }
+    ,
+    {
+      'id': '9',
+      'skill': 'CI/CD [Jenkins, Spinnaker]',
+      'progress': '80%'
+    }
+    ,
+    {
+      'id': '10',
+      'skill': 'Postman, Intellij idea',
+      'progress': '80%'
     }
   ];
 
