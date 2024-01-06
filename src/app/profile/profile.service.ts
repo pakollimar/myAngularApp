@@ -188,7 +188,7 @@ export class ProfileService {
   Successful track record in building scalable and distributed solutions`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/1V0ybzqW33xyQiviJ09YxVt1OK7kWKYWo/view?usp=drivesdk"
+  resumeurl = "https://drive.google.com/file/d/16k1yIlMdmJObAqem85MC-wPsLc3CQay8/view?usp=drive_link"
 
   skillsData: any = [
     {
@@ -263,10 +263,10 @@ export class ProfileService {
     },
     {
       id: 2,
-      company: 'Texas Tech University',
-      location: 'Lubbock, Texas',
-      timeline: 'March 2022 to May 2023',
-      role: 'Graduate Assitant',
+      company: 'Copart Inc',
+      location: 'Remote',
+      timeline: 'Feb 2022 to Sept 2022',
+      role: 'Software Engineer',
      
     },
     {
@@ -274,7 +274,7 @@ export class ProfileService {
       company: 'Copart India Technology Center',
       location: 'Hyderabad, Telangna',
       timeline: 'April 2021 - Dec 2021',
-      role: 'Software Engineer',
+      role: 'Jr.Software Engineer',
     },
 
 
